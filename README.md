@@ -2,6 +2,7 @@
 # FARSdatatools
 
 <!-- badges: start -->
+[![Build Status](https://travis-ci.org/jschonem/FARSdatatools.svg?branch=main)](https://travis-ci.org/jschonem/FARSdatatools)
 <!-- badges: end -->
 
 The goal of FARSdatatools is to ...
